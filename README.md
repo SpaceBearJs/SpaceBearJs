@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    Soy Junior Aguilar, egresado de <b>Diseño y Desarrollo de Software</b> en <a href="https://uom.lk/"> <b>Tecsup</b>, Lima</a>. <br>
+    Soy Junior Aguilar, egresado de <b>Diseño y Desarrollo de Software</b> en <a href="https://www.tecsup.edu.pe/"> <b>Tecsup</b>, Lima</a>. <br>
     <b>me gusta programar en Javascript</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y aprender los diferentes modelos de negocio de otras empresas <b></b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
     <br>Por ahora me interesa probar las APIs que tienen las empresas de las paginas que suelo usar ( Discord, Twitch, Whatsapp)
     <br>Perfil nuevo enfocado en proyectos personales a mostrar
